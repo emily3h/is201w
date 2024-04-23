@@ -4,6 +4,9 @@ p{
 .headers{
     font-family: cursive;
     color: cornflowerblue;
+    position: relative;
+    left: 50px;
+    top: 200px;
 }
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
